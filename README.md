@@ -1,0 +1,2 @@
+# Smart-Waste-Classification-A-TensorFlow-and-Kera-s-Powered-Framework-Using-Advanced-Computer-Vision
+The increasing volume of waste and ineffective manual sorting methods challenge  sustainability goals. To address this, an AI-assisted waste sorting model is proposed  to automate the classification of waste into recyclable, compostable, and garbage  categories, enhancing recycling efficiency and supporting sustainable waste  management.
